@@ -1,1 +1,1 @@
-# Datacleaning in Postgres
+# Data cleaning in Postgres
